@@ -3,7 +3,7 @@ language: php
 
 # list any PHP version you want to test against
 php:
-  # using major version aliases
+  # using major version aliases test
 
   # aliased to 5.2.17
   - 5.2
